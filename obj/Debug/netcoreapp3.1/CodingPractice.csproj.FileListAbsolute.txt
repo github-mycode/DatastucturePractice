@@ -1,0 +1,11 @@
+C:\Users\priya\source\repos\CodingPractice\bin\Debug\netcoreapp3.1\CodingPractice.exe
+C:\Users\priya\source\repos\CodingPractice\bin\Debug\netcoreapp3.1\CodingPractice.deps.json
+C:\Users\priya\source\repos\CodingPractice\bin\Debug\netcoreapp3.1\CodingPractice.runtimeconfig.json
+C:\Users\priya\source\repos\CodingPractice\bin\Debug\netcoreapp3.1\CodingPractice.runtimeconfig.dev.json
+C:\Users\priya\source\repos\CodingPractice\bin\Debug\netcoreapp3.1\CodingPractice.dll
+C:\Users\priya\source\repos\CodingPractice\bin\Debug\netcoreapp3.1\CodingPractice.pdb
+C:\Users\priya\source\repos\CodingPractice\obj\Debug\netcoreapp3.1\CodingPractice.csprojAssemblyReference.cache
+C:\Users\priya\source\repos\CodingPractice\obj\Debug\netcoreapp3.1\CodingPractice.AssemblyInfoInputs.cache
+C:\Users\priya\source\repos\CodingPractice\obj\Debug\netcoreapp3.1\CodingPractice.AssemblyInfo.cs
+C:\Users\priya\source\repos\CodingPractice\obj\Debug\netcoreapp3.1\CodingPractice.dll
+C:\Users\priya\source\repos\CodingPractice\obj\Debug\netcoreapp3.1\CodingPractice.pdb
